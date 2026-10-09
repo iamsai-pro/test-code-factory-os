@@ -1,0 +1,6 @@
+mcp[cli]
+pydantic
+ddgs>=9.0.0
+pypdf>=5.0.0
+python-dotenv>=1.0.0
+requests
